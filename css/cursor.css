@@ -1,0 +1,12 @@
+.cursor {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  backdrop-filter: hue-rotate(120deg);
+  background-color: rgba(246,250,55,.6);
+  z-index: 100101010100101001;
+}
