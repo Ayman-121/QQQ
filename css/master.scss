@@ -1192,7 +1192,7 @@ $black: #222;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      a.firstLink{
+      a{
         color: $black;
         display: flex;
         font-size: 25px;
@@ -1246,7 +1246,3 @@ img#star{
   transition: 0.2s;
 }
 // * Star Image End
-.Ayman{
-  text-decoration: none;
-  color:#222;
-}
